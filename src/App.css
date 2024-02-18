@@ -1,0 +1,12 @@
+.bg {
+  background-image: url(https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+  padding: 50px 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
